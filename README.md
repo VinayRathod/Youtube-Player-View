@@ -2,7 +2,7 @@
  # Youtube-Player-View [ ![Download](https://api.bintray.com/packages/pledgesoft/youtube-player-view/com.vinay.youtubeplayer/images/download.svg) ](https://bintray.com/pledgesoft/youtube-player-view/com.vinay.youtubeplayer/_latestVersion)
 
 Library help to add youtube video player which move by gesture like youtube video play in WhatsApp (PIP mode) for Android Project
-
+https://raw.githubusercontent.com/VinayRathod/Youtube-Player-View/master/youtubeplayerPIP.gif
 add a dependency in your application build.gradle file like this
 ``` 
 dependencies {
